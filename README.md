@@ -29,6 +29,6 @@ A self-built GUI forensic toolkit for deep EXIF & metadata analysis, designed fo
   ```bash
   pip install -r requirements.txt
 
-###Usage
+###3. Usage
   ```bash
   python3 exifhack.py
