@@ -25,7 +25,8 @@ A self-built GUI forensic toolkit for deep EXIF & metadata analysis, designed fo
   ```bash
   Download exiftool.exe from exiftool.org and add it to your System PATH.
 
-###2. Install Python Dependencies & Usage
+
+### 2. Install Python Depenencies & Usage
   ```bash
   pip install -r requirements.txt
   python3 exifhack.py
