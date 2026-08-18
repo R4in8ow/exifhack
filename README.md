@@ -30,3 +30,17 @@ A self-built GUI forensic toolkit for deep EXIF & metadata analysis, designed fo
   ```bash
   pip install -r requirements.txt
   python3 exifhack.py
+
+
+## 🛠️ Additional CLI Tools
+
+### 1. Fast Metadata & Subtitle Stripper (`remove_metadata.py`)
+Remove all embedded metadata, download tags, and extra subtitle tracks instantly:
+```bash
+python3 remove_metadata.py input_video.mp4
+
+
+### 2. Video Episode Splitter (split_episode.py)
+Split long movies into parts (e.g., 3-minute clips for TikTok / Reels):
+```bash
+python3 split_episode.py input_video.mp4
