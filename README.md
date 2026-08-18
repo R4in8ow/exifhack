@@ -6,7 +6,7 @@ A self-built GUI forensic toolkit for deep EXIF & metadata analysis, designed fo
 
 ## 👨‍💻 Author & Copyright
 - **Developer**: [R4in8ow](https://www.facebook.com/R4in8owLay)
-- **Facebook**: https://www.facebook.com/R4in8owLay
+- **Linkedin**: [PyaeSoneMyo](https://www.linkedin.com/in/pyae-sone-myo-74b34133b/)
 - **License**: MIT License (© 2026 R4in8ow. All Rights Reserved.)
 
 ---
